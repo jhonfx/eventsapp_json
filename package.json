@@ -1,0 +1,19 @@
+{
+  "name": "simple-sura-app",
+  "version": "1.0.0",
+  "description": "Simple nodeapp reading csv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "result": "result.js"
+  },
+  "author": "jhonfx",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "fast-csv": "^0.2.0",
+    "get-csv": "^3.0.3",
+    "https": "^1.0.0",
+    "request": "^2.83.0"
+  }
+}

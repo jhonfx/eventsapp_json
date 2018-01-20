@@ -1,0 +1,20 @@
+Page,Pageviews,Unique Pageviews,Entrances,Exits,Avg. Page Duration (sec.),Bounce Rate (%)
+A1731: InicioApp_SuraAppAndroid-Inicio,24,22,0,1,27.83,0.00%
+A1742: InAppSura_SuraAppAndroid-TomarID,12,6,0,0,324.83,0.00%
+A1744: InAppSura_SuraAppAndroid-PantallaLogin,12,6,1,4,107.42,100.00%
+A1732: EventosGenerados_SuraAppAndroid-IngresoDatos,11,6,0,0,26.18,0.00%
+A1733: EventosGenerados_SuraAppAndroid-PantallaIngresoCurp,10,6,0,0,5.1,0.00%
+A1736: CURPSValidos_SuraAppAndroid-PantallaEnvioCodigoSeguridad,8,6,0,0,35.88,0.00%
+A1737: InAppSura_SuraAppAndroid-PantallaConfirmaCodigoSeguridad,8,6,0,0,6.75,0.00%
+A1738: InAppSura_SuraAppAndroid-PantallaContrasenia,7,6,0,0,38.43,0.00%
+A1739: InAppSura_SuraAppAndroid-PantallaGeneraContrasenia,7,6,0,0,6.57,0.00%
+A1740: AccesoAppNoSURA_SuraAppAndroid-UsuarioConPreregistro,7,6,0,0,2,0.00%
+A1745: InAppSura_SuraAppAndroid-DatosDomicilio,7,6,0,0,1.71,0.00%
+A1734: EventosGenerados_SuraAppAndroid-RespuestaCurpUsuarioRegistrado,6,5,0,0,38.5,0.00%
+A1746: Autenticacion_SuraAppAndroid-ConfirmaDatosDomicilio,6,6,0,4,280.83,0.00%
+A1747: InAppSura_SuraAppAndroid-PantallaBienvenidoAforeSura,6,5,0,0,96.5,0.00%
+A1735: EventosGenerados_SuraAppAndroid-RespuestaCurpUsuarioIndependiente,3,3,0,0,3,0.00%
+A1748: Autenticacion_SuraAppAndroid-CancelaDatosDomicilio,1,1,0,0,1,0.00%
+A1770: RegistrosNoSURA_SuraAppAndroid-TrabajadorIndependiente,1,1,0,0,1,0.00%
+A1770: RegistrosNoSURA_SuraAppAndroid-TrabajadorLoco,10,0,0,0,0,0.00%
+A1770: RegistrosSURA_SuraAppAndroid-TrabajadorAsignado,8,0,0,0,0,0.00%
